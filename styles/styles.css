@@ -187,7 +187,6 @@ body
 {
     position: relative;
     z-index: -1;
-    margin-bottom: 10rem;
 
 }
 
@@ -235,6 +234,14 @@ footer img
     height: 100%;
     width: 100%;
 }
+
+
+.transition-to-gal-image img
+{
+    max-width: 100%;
+    height: auto;
+}
+
 /* Image gallery page*/
 
 .gallery
