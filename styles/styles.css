@@ -235,7 +235,11 @@ footer img
     width: 100%;
 }
 
-
+.transition-to-gal
+{
+    position: relative;
+    z-index: -1;
+}
 .transition-to-gal-image img
 {
     max-width: 100%;
